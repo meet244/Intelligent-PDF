@@ -1,5 +1,5 @@
 # 📄 Intelligent PDF Extractor Suite  
-Built with 💙 by **Miray Ozcan** | Powered by **Streamlit + Gemini 3 Pro + Agentic Document Extractor + LangChain + PDFPlumber**
+Built with 💙 by **Meet Patel** | Powered by **Streamlit + Gemini 3 Pro + Agentic Document Extractor + LangChain + PDFPlumber**
 
 > **Solve real internal bottlenecks with AI.**  
 > This multi-version toolset tackles one of the biggest pain points faced by product operations and cross-functional teams: **valuable business data trapped inside messy PDFs** like contracts, onboarding forms, invoices, or configuration summaries.  
@@ -8,7 +8,7 @@ Built with 💙 by **Miray Ozcan** | Powered by **Streamlit + Gemini 3 Pro + Age
 
 ## 🔧 Motivation
 
-During my internship interview at **Proscia**, I interviewed the Product Operations Lead and uncovered key internal pain points:
+During my internship interview at **Motilal Oswal**, I  uncovered key internal pain points:
 
 > ⚠️ _"The data often lives in PDFs we've signed with customers, but it's never made it into a spreadsheet that's queryable... It's scattered, manual, inconsistent, or siloed. If we could automatically pull structured info from these documents and present it cleanly, we'd save hours per deal."_  
 
@@ -113,16 +113,6 @@ streamlit run ui/streamlit_app.py
 
 ---
 
-## 🎥 Demo Videos
-
-| PDFPlumber & LangChain-Based Extractor (v0, v1) | LangChain-Based Extractor & ADE-Powered Viewer (v1, v2) |
-|-------------------------------|--------------------------|
-| [Watch Demo Part 1!](https://www.loom.com/share/93ca1ac870d0480580b5a5d2d93db4f2?sid=126cd365-f141-4e12-817e-20df70afccaa) | [Watch Demo Part 2!](https://www.loom.com/share/91cff4e13f054cb2b4ed158fc494d866?sid=6da7125e-48c6-42ce-832b-9e486032f49f) |
-
-> 🔗 Click on a link to watch a 5-minute walkthrough on Loom.
-
----
-
 ## 🧩 Real-World Use Cases
 
 - **Contract Intelligence**: Pulling features, pricing, infrastructure specs, and deployment configurations from customer contracts.
@@ -140,7 +130,3 @@ streamlit run ui/streamlit_app.py
 - **Helpers**: LangChain prompt pipelines, recursive chunking, CSV export, HTML table rendering
 
 ---
-
-## 🙌 Credits
-
-Special thanks to the **Product Operations Lead at Proscia** for their insights and support in identifying real automation opportunities that can drive cross-team efficiency.
